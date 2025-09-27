@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm William 👋
+
+I was forced by a Github tutorial to create this profile README 
 
 <!--
 **bourbaki122/bourbaki122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
